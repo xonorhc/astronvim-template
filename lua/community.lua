@@ -15,9 +15,9 @@ return {
   -- { import = "astrocommunity.pack.typescript" },
   -- { import = "astrocommunity.pack.json" },
   -- { import = "astrocommunity.pack.full-dadbod" },
+  { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.color.transparent-nvim" },
   { import = "astrocommunity.editing-support.conform-nvim" },
-  { import = "astrocommunity.markdown-and-latex.markview-nvim" },
   -- { import = "astrocommunity.markdown-and-latex.markdown-preview-nvim" },
   { import = "astrocommunity.media.vim-wakatime" },
 }
