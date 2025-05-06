@@ -18,6 +18,6 @@ return {
   { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.color.transparent-nvim" },
   { import = "astrocommunity.editing-support.conform-nvim" },
-  -- { import = "astrocommunity.markdown-and-latex.markdown-preview-nvim" },
+  { import = "astrocommunity.markdown-and-latex.markdown-preview-nvim" },
   { import = "astrocommunity.media.vim-wakatime" },
 }
